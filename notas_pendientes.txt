@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 rtert
+=======
+fertesfr
+>>>>>>> calculo
 - Entregar Tarea-Examen Calculo
 
 - Estudiar exámen de calculo
