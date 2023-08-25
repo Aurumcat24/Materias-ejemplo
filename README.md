@@ -1,8 +1,8 @@
 
-#Proyecto inicial del Git
+# Proyecto inicial del Git
 
-##Proyecto para aprender a usar Git
+## Proyecto para aprender a usar Git
 
-##Tecnologías: Git
+## Tecnologías: Git
 
-##Autores: Garduño Reyes Santiago
+## Autores: Garduño Reyes Santiago
